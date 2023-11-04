@@ -2,8 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-gv1shnu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gv1shnu/)](https://www.linkedin.com/in/gv1shnu/)
 [![Website Badge](https://img.shields.io/badge/-gandarapuvishnu.in-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gandarapuvishnu.in)](https://gandarapuvishnu.in)
-[![Twitter Badge](https://img.shields.io/badge/-gv1shnu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gv1shnu)](https://twitter.com/gv1shnu)
-
 
 🌴 Welcome to my GitHub profile! 🦖
 
