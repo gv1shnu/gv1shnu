@@ -10,6 +10,3 @@ Tech stack: Reactjs, FastAPI, PostgreSQL.
 Link to [frontend source code](https://github.com/gv1shnu/bay-frontend)
 
 Link to [backend source code](https://github.com/gv1shnu/bay-backend)
-
-
-Link to [Trello board](https://trello.com/b/OOv3uhwv/bay)
