@@ -19,9 +19,5 @@ Link to [source code](https://github.com/gv1shnu/project-bay)
 
 I will probably ship it, but still in the tinkering phase.
 
-#### Fun facts
-
-- I like franchise movies as long as they don't mess it up. Waiting for Doomsday.
-- My next project will be mostly a third person single player game for pc. 🤞
 
 ![](https://komarev.com/ghpvc/?username=gv1shnu&label=VIEWS&color=green)
