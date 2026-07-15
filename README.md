@@ -1,30 +1,29 @@
-## Yo!
+## Yo! 
 
-Welcome to my github.
+Welcome to my corner of GitHub.
 
 ## About me
 
-I'm Vishnu, a software engineer and an avid gamer.
+I'm **Vishnu** — a software engineer and an avid gamer.
 
-My interest lies in developing projects that I wish were there, and making it visible.
+My interest lies in building the projects I wish already existed, and making them visible.
 
-Currently working on [Project BAY](https://github.com/gv1shnu/project-bay), a social challenge platform to help peers compete on commitments and grow positively.
-
-## Project ideas
+## Projects
 
 ### Nexus Metasearch
+**Category:** Realistic · **Status:** v1
 
-Category: Realistic
-
-[Nexus](https://github.com/gv1shnu/nexus) is a metasearch engine which displays aggregated results scraping from various engines for an input query with focus on complete information over latency.
-
-This was succesfully implemented by me back in 2023, since then anti-bot movement has become strict on all engines, but I'm realising a new extractor and would also like to integrate SearXNG into it. 
+[Nexus](https://github.com/gv1shnu/nexus) is a metasearch engine that aggregates and displays results scraped from various search engines for a given query — with a focus on complete information over latency.
 
 ### Dino Hunt
+**Category:** Ambitious · **Status:** In progress
 
-Category: Ambitious
+A survival shooter for PC where players are randomly assigned the role of a hunter escaping with raptor eggs.
 
-A survival shooter multiplayer game for Pc, where players are randomly assigned role of either a hunter or a raptor.
-Aiming for both duo and squad style, built using Unreal Engine.
+## Tech I work with
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+-----
 
 ![](https://komarev.com/ghpvc/?username=gv1shnu&label=VIEWS&color=green)
