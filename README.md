@@ -18,7 +18,7 @@ My interest lies in building the projects I wish already existed, and making the
 ### Dino Hunt
 **Category:** Ambitious · **Status:** In planning
 
-A survival shooter for PC where players are assigned the role of a hunter who escapes with raptor eggs has to survive their chase.
+A survival shooter evolution where agents are assigned the role of a hunter and raptor (5v5v5), who escape with raptor eggs has to survive their chase, also from the enemy team.
 
 ## Tech I work with
 
