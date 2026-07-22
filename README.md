@@ -59,4 +59,19 @@ A survival shooter evolution where agents are assigned the role of a hunter and 
 
 -----
 
+## Windows customisation
+
+Rainmeter: [Futuristic circle](https://visualskins.com/skin/futuristic-circle), illustro recycle bin and cpu usage level, [soapy date](https://visualskins.com/skin/soapydate)
+
+[Translucent TB](https://translucenttb.net/)
+
+[Everything](https://www.voidtools.com/support/everything/)
+
+[CrystalDiskInfo Aoi Edition
+](https://crystaldiskinfo-aoi-edition.updatestar.com/download)
+
+[Icaros](https://github.com/Xanashi/Icaros/releases)
+
+-----
+
 ![](https://komarev.com/ghpvc/?username=gv1shnu&label=VIEWS&color=green)
