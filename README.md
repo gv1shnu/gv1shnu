@@ -29,6 +29,7 @@ A survival shooter evolution where agents are assigned the role of a hunter and 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=white)
+
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/-VS%20Code-007ACC?style=flat&logo=vsc&logoColor=white)
