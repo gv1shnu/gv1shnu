@@ -4,22 +4,27 @@ Welcome to my corner of GitHub.
 
 ## About me
 
-I'm **Vishnu** — a software engineer and an avid gamer.
+I'm **Vishnu** — I teach Computer Science, break things (ethically) as a Certified Ethical Hacker, and build the tools I wish already existed. Avid gamer on the side.
 
-My interest lies in building the projects I wish already existed, and making them visible.
+Most of my work lives where **databases, security, and a bit of AI** overlap — and I like making the results visible.
 
 ## Projects
 
-### Nexus Metasearch
-**Category:** Realistic · **Status:** v1
+### Nexus — Metasearch Engine
+**Category:** Realistic · **Status:** v1 · [Repo](https://github.com/gv1shnu/nexus) · [Live](https://nexus-lixx.onrender.com/)
 
-[Nexus](https://github.com/gv1shnu/nexus) is a metasearch engine that aggregates and displays results scraped from various search engines for a given query — with a focus on complete information over latency.
+A privacy-minded metasearch engine that aggregates and ranks results scraped from multiple search engines for a given query — favoring completeness of information over latency.
 
-### Dino Hunt
-**Category:** Ambitious · **Status:** In planning
+### Dino Hunt — AI Ecosystem Sandbox
+**Category:** Ambitious · **Status:** In planning · [Repo](https://github.com/gv1shnu/dino-hunt) · [Play](https://dancingwithdeath.itch.io/dino-hunt)
 
-A survival shooter evolution where agents are assigned the role of a hunter and raptor (5v5v5), who escape with raptor eggs has to survive their chase, also from the enemy team.
+A survival-shooter sandbox (5v5v5) where autonomous agent teams play as hunters and raptors: grab the raptor eggs and escape the nest while being chased by its raptors — and hunted by the rival team.
 
+### Also in the works
+- **[Web Timeline](https://github.com/gv1shnu/web-timeline)** — chains web-pentest recon and vulnerability scanning into one repeatable pipeline.
+- **[Privacy Lens](https://github.com/gv1shnu/privacy-lens)** · [Live](https://privacy-lens-ggop.onrender.com/) — real-time report of a site's trackers, cookies, pixels, and fingerprinting.
+- **[Project BAY](https://github.com/gv1shnu/project-bay)** · [Live](https://project-bay-amber.vercel.app/) — accountability app for self-imposed goals with real stakes.
+  
 ## Tech I work with
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
