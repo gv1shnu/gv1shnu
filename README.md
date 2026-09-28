@@ -44,7 +44,6 @@ A survival-shooter sandbox (5v5v5) where autonomous agent teams play as hunters 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-7FC8FF?style=flat&logo=langchain&logoColor=black)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 <!-- Databases & Big Data -->
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
